@@ -17,8 +17,8 @@ Zed Port of Gruvbox Material for (Neo)Vim.
 - Move `gruvbox-material.json` to `~/.zed/themes/` or `%APPDATA%/zed/themes/`
 
 ## Thanks
-- Tokiory's Port(https://github.com/tokiory/zed-gruvbox-material)
-- Sainhe for the original port (https://github.com/sainnhe/gruvbox-material)
+- [Tokiory's Port](https://github.com/tokiory/zed-gruvbox-material)
+- [Sainhe for the original Gruvbox Material](https://github.com/sainnhe/gruvbox-material)
 
 ## License
 
