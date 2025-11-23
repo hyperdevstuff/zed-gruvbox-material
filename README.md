@@ -1,14 +1,25 @@
 # zed-gruvbox-material
-Zed Port of Gruvbox Material for (Neo)Vim.
+Zed Port of Gruvbox Material for (Neo)Vim. Attempted to port the original Gruvbox Material by [Sainhe](https://github.com/sainnhe/gruvbox-material).
 
-## Palettes
+![Dark Stacked](assets/preview_dark_stacked.png)
+---
+![Light Stacked](assets/preview_light_stacked.png)
 
-- Gruvbox Material Dark 
-- Gruvbox Material Light
-- Gruvbox Material Dark Mix
-- Gruvbox Material Light Mix
-- Gruvbox Material Light Hard
-- Gruvbox Material Dark Hard
+
+<details>
+<summary>Open to see individual palette preview</summary>
+
+| Variant | Preview |
+| :--- | :--- |
+| **Dark Hard** | ![Dark Hard](assets/dark%20hard.png) |
+| **Dark** | ![Dark](assets/dark.png) |
+| **Dark Mix** | ![Dark Mix](assets/dark%20mix.png) |
+| **Light Hard** | ![Light Hard](assets/light%20hard.png) |
+| **Light** | ![Light](assets/light.png) |
+| **Light Mix** | ![Light Mix](assets/light%20mix.png) |
+
+
+</details>
 
 ## Installation
 
