@@ -1,6 +1,6 @@
 id = "gruvbox-material-mix"
 name = "Gruvbox Material Mix"
-version = "1.0.0"
+version = "1.0.1"
 schema_version = 1
 authors = ["hyperdevstuff <harshch.work@proton.me>"]
 description = "Gruvbox Material Port for Zed with more weights and styles."
