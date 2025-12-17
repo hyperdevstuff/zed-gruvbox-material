@@ -23,9 +23,13 @@ Zed Port of Gruvbox Material for (Neo)Vim. Attempted to port the original Gruvbo
 
 ## Installation
 
-### Manual
+### Zed Extensions
 
-- Move `gruvbox-material.json` to `~/.zed/themes/` or `%APPDATA%/zed/themes/`
+1. Open Zed
+2. Open Extensions (`Ctrl+Shift+x` / `Cmd+Shift+x`)
+3. Search for **"Gruvbox Material Mix"** and click **Install**
+
+[Gruvbox Material Mix on Zed Extensions](https://zed.dev/extensions/gruvbox-material-mix)
 
 ## Thanks
 - [Tokiory's Port](https://github.com/tokiory/zed-gruvbox-material)
